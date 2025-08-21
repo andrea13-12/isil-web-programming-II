@@ -1,0 +1,17 @@
+{
+  "name": "chat-grupal",
+  "version": "1.0.0",
+  "description": "Mi primer proyecto con socket.io con node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Gean Huaman, Andrea Torres",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
+}

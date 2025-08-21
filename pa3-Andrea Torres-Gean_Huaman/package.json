@@ -1,0 +1,21 @@
+{
+  "name": "pa3-gean-huaman",
+  "version": "1.0.0",
+  "description": "sitio web PA3 con node.js ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js "
+  },
+  "keywords": [],
+  "author": "Gean-huaman-Andrea-Torres",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "express": "^5.1.0",
+    "g": "^2.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

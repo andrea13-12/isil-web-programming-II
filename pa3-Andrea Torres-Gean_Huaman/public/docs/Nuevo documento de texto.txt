@@ -1,0 +1,28 @@
+Encabezado (Header)
+
+Contenido: Logo, nombre del negocio, menú de navegación.
+Color: Verde Pastel (#A8E6CE) como fondo.
+Banner Principal
+
+Contenido: Imagen atractiva de mascotas, eslogan o mensaje de bienvenida.
+Color: Coral (#FF6F61) para el texto y botones de llamada a la acción.
+Servicios Destacados
+
+Contenido: Breve descripción de los servicios ofrecidos (hospedaje, paseos, etc.).
+Color: Amarillo Suave (#FFD54F) para resaltar los títulos de cada servicio.
+Galería de Imágenes
+
+Contenido: Fotos de mascotas que han sido hospedadas, mostrando las instalaciones.
+Color: Gris Claro (#F5F5F5) como fondo para que las imágenes resalten.
+Testimonios de Clientes
+
+Contenido: Reseñas de clientes satisfechos con citas breves.
+Color: Azul Cielo (#64B5F6) para el fondo de esta sección.
+Llamada a la Acción
+
+Contenido: Botón para hacer una reserva o contacto.
+Color: Coral (#FF6F61) para el botón y texto en Blanco (#FFFFFF).
+Pie de Página (Footer)
+
+Contenido: Información de contacto, enlaces a redes sociales y políticas.
+Color: Verde Pastel (#A8E6CE) como fondo, texto en **
